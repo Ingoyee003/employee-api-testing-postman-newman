@@ -5,7 +5,7 @@
 
 This project showcases a complete API testing workflow for an Employee Management System using **Postman** and **Newman**.
 
-The objective was not just to execute API calls, but to approach the system like a real QA engineer — validating functionality, identifying edge cases, and ensuring reliability through both **positive and negative test scenarios**.
+The objective was not just to execute API calls, but to approach the system like a real QA engineer validating functionality, identifying edge cases, and ensuring reliability through both **positive and negative test scenarios**.
 
 From environment setup to automated execution, this project reflects a practical, hands-on understanding of **real-world API testing practices**.
 
